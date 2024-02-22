@@ -1,0 +1,15 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ARIC",
+      "countyName": "ARICA",
+      "coverageName": "ARICA",
+      "ineCountyCode": 201,
+      "queryMode": 1,
+      "regionCode": "R15"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

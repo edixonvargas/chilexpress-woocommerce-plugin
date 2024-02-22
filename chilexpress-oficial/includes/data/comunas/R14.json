@@ -1,0 +1,95 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "FUTR",
+      "countyName": "FUTRONO",
+      "coverageName": "FUTRONO",
+      "ineCountyCode": 514,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "LAUN",
+      "countyName": "LA UNION",
+      "coverageName": "LA UNION",
+      "ineCountyCode": 518,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "LRAN",
+      "countyName": "LAGO RANCO",
+      "coverageName": "LAGO RANCO",
+      "ineCountyCode": 521,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "LANC",
+      "countyName": "LANCO",
+      "coverageName": "LANCO",
+      "ineCountyCode": 512,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "LLAG",
+      "countyName": "LOS LAGOS",
+      "coverageName": "LOS LAGOS",
+      "ineCountyCode": 513,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "MAFI",
+      "countyName": "MAFIL",
+      "coverageName": "MAFIL",
+      "ineCountyCode": 516,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "MRQN",
+      "countyName": "MARIQUINA",
+      "coverageName": "MARIQUINA",
+      "ineCountyCode": 511,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "PAIL",
+      "countyName": "PAILLACO",
+      "coverageName": "PAILLACO",
+      "ineCountyCode": 519,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "PANG",
+      "countyName": "PANGUIPULLI",
+      "coverageName": "PANGUIPULLI",
+      "ineCountyCode": 517,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "RIOB",
+      "countyName": "RIO BUENO",
+      "coverageName": "RIO BUENO",
+      "ineCountyCode": 520,
+      "queryMode": 1,
+      "regionCode": "R14"
+    },
+    {
+      "countyCode": "VALD",
+      "countyName": "VALDIVIA",
+      "coverageName": "VALDIVIA",
+      "ineCountyCode": 510,
+      "queryMode": 1,
+      "regionCode": "R14"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

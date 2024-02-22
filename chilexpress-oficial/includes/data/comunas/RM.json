@@ -1,0 +1,399 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "BUIN",
+      "countyName": "BUIN",
+      "coverageName": "BUIN",
+      "ineCountyCode": 651,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "CTAN",
+      "countyName": "CALERA DE TANGO",
+      "coverageName": "CALERA DE TANGO",
+      "ineCountyCode": 653,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LOSC",
+      "countyName": "CERRILLOS",
+      "coverageName": "CERRILLOS",
+      "ineCountyCode": 629,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "CNAV",
+      "countyName": "CERRO NAVIA",
+      "coverageName": "CERRO NAVIA",
+      "ineCountyCode": 634,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "COLI",
+      "countyName": "COLINA",
+      "coverageName": "COLINA",
+      "ineCountyCode": 640,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "CCHA",
+      "countyName": "CONCHALI",
+      "coverageName": "CONCHALI",
+      "ineCountyCode": 607,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "CRCV",
+      "countyName": "CURACAVI",
+      "coverageName": "CURACAVI",
+      "ineCountyCode": 662,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "ELBO",
+      "countyName": "EL BOSQUE",
+      "coverageName": "EL BOSQUE",
+      "ineCountyCode": 625,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "ELMO",
+      "countyName": "EL MONTE",
+      "coverageName": "EL MONTE",
+      "ineCountyCode": 673,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "ECEN",
+      "countyName": "ESTACION CENTRAL",
+      "coverageName": "ESTACION CENTRAL",
+      "ineCountyCode": 628,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "HUEC",
+      "countyName": "HUECHURABA",
+      "coverageName": "HUECHURABA",
+      "ineCountyCode": 608,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "INDE",
+      "countyName": "INDEPENDENCIA",
+      "coverageName": "INDEPENDENCIA",
+      "ineCountyCode": 606,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "IMAI",
+      "countyName": "ISLA DE MAIPO",
+      "coverageName": "ISLA DE MAIPO",
+      "ineCountyCode": 672,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LACI",
+      "countyName": "LA CISTERNA",
+      "coverageName": "LA CISTERNA",
+      "ineCountyCode": 624,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LAFL",
+      "countyName": "LA FLORIDA",
+      "coverageName": "LA FLORIDA",
+      "ineCountyCode": 618,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LAGR",
+      "countyName": "LA GRANJA",
+      "coverageName": "LA GRANJA",
+      "ineCountyCode": 620,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LAPI",
+      "countyName": "LA PINTANA",
+      "coverageName": "LA PINTANA",
+      "ineCountyCode": 621,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LARE",
+      "countyName": "LA REINA",
+      "coverageName": "LA REINA",
+      "ineCountyCode": 615,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LAMP",
+      "countyName": "LAMPA",
+      "coverageName": "LAMPA",
+      "ineCountyCode": 641,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LCON",
+      "countyName": "LAS CONDES",
+      "coverageName": "LAS CONDES",
+      "ineCountyCode": 613,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LOBA",
+      "countyName": "LO BARNECHEA",
+      "coverageName": "LO BARNECHEA",
+      "ineCountyCode": 612,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LOES",
+      "countyName": "LO ESPEJO",
+      "coverageName": "LO ESPEJO",
+      "ineCountyCode": 627,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "LOPR",
+      "countyName": "LO PRADO",
+      "coverageName": "LO PRADO",
+      "ineCountyCode": 632,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "MACU",
+      "countyName": "MACUL",
+      "coverageName": "MACUL",
+      "ineCountyCode": 616,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "MIPU",
+      "countyName": "MAIPU",
+      "coverageName": "MAIPU",
+      "ineCountyCode": 630,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "MELI",
+      "countyName": "MELIPILLA",
+      "coverageName": "MELIPILLA",
+      "ineCountyCode": 660,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "NUNO",
+      "countyName": "NUNOA",
+      "coverageName": "NUNOA",
+      "ineCountyCode": 614,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PHUR",
+      "countyName": "PADRE HURTADO",
+      "coverageName": "PADRE HURTADO",
+      "ineCountyCode": 674,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PAIN",
+      "countyName": "PAINE",
+      "coverageName": "PAINE",
+      "ineCountyCode": 652,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PEDR",
+      "countyName": "PEDRO AGUIRRE CERDA",
+      "coverageName": "PEDRO AGUIRRE CERDA",
+      "ineCountyCode": 626,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PENA",
+      "countyName": "PENAFLOR",
+      "coverageName": "PENAFLOR",
+      "ineCountyCode": 671,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PLOL",
+      "countyName": "PENALOLEN",
+      "coverageName": "PENALOLEN",
+      "ineCountyCode": 617,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PIRQ",
+      "countyName": "PIRQUE",
+      "coverageName": "PIRQUE",
+      "ineCountyCode": 647,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PROV",
+      "countyName": "PROVIDENCIA",
+      "coverageName": "PROVIDENCIA",
+      "ineCountyCode": 610,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PUDA",
+      "countyName": "PUDAHUEL",
+      "coverageName": "PUDAHUEL",
+      "ineCountyCode": 633,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "PALT",
+      "countyName": "PUENTE ALTO",
+      "coverageName": "PUENTE ALTO",
+      "ineCountyCode": 645,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "QILI",
+      "countyName": "QUILICURA",
+      "coverageName": "QUILICURA",
+      "ineCountyCode": 636,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "QNOR",
+      "countyName": "QUINTA NORMAL",
+      "coverageName": "QUINTA NORMAL",
+      "ineCountyCode": 631,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "RECO",
+      "countyName": "RECOLETA",
+      "coverageName": "RECOLETA",
+      "ineCountyCode": 609,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "RENC",
+      "countyName": "RENCA",
+      "coverageName": "RENCA",
+      "ineCountyCode": 635,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "SBER",
+      "countyName": "SAN BERNARDO",
+      "coverageName": "SAN BERNARDO",
+      "ineCountyCode": 650,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "SJOA",
+      "countyName": "SAN JOAQUIN",
+      "coverageName": "SAN JOAQUIN",
+      "ineCountyCode": 619,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "SMIG",
+      "countyName": "SAN MIGUEL",
+      "coverageName": "SAN MIGUEL",
+      "ineCountyCode": 623,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "SNPD",
+      "countyName": "SAN PEDRO",
+      "coverageName": "SAN PEDRO",
+      "ineCountyCode": 664,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "SRAM",
+      "countyName": "SAN RAMON",
+      "coverageName": "SAN RAMON",
+      "ineCountyCode": 622,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "STGO",
+      "countyName": "SANTIAGO CENTRO",
+      "coverageName": "SANTIAGO CENTRO",
+      "ineCountyCode": 605,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "TALA",
+      "countyName": "TALAGANTE",
+      "coverageName": "TALAGANTE",
+      "ineCountyCode": 670,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "TILT",
+      "countyName": "TILTIL",
+      "coverageName": "TIL TIL",
+      "ineCountyCode": 642,
+      "queryMode": 1,
+      "regionCode": "RM"
+    },
+    {
+      "countyCode": "VITA",
+      "countyName": "VITACURA",
+      "coverageName": "VITACURA",
+      "ineCountyCode": 611,
+      "queryMode": 1,
+      "regionCode": "RM"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

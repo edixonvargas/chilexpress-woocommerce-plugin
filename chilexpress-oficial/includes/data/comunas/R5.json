@@ -1,0 +1,263 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ALGA",
+      "countyName": "ALGARROBO",
+      "coverageName": "ALGARROBO",
+      "ineCountyCode": 324,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "CALL",
+      "countyName": "CALLE LARGA",
+      "coverageName": "CALLE LARGA",
+      "ineCountyCode": 287,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "CART",
+      "countyName": "CARTAGENA",
+      "coverageName": "CARTAGENA",
+      "ineCountyCode": 321,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "CASA",
+      "countyName": "CASABLANCA",
+      "coverageName": "CASABLANCA",
+      "ineCountyCode": 316,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "CATE",
+      "countyName": "CATEMU",
+      "coverageName": "CATEMU",
+      "ineCountyCode": 295,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "CCON",
+      "countyName": "CONCON",
+      "coverageName": "CONCON",
+      "ineCountyCode": 318,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "QSCO",
+      "countyName": "EL QUISCO",
+      "coverageName": "EL QUISCO",
+      "ineCountyCode": 323,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "TABO",
+      "countyName": "EL TABO",
+      "coverageName": "EL TABO",
+      "ineCountyCode": 322,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "HIJU",
+      "countyName": "HIJUELAS",
+      "coverageName": "HIJUELAS",
+      "ineCountyCode": 304,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LACA",
+      "countyName": "LA CALERA",
+      "coverageName": "LA CALERA",
+      "ineCountyCode": 302,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LACR",
+      "countyName": "LA CRUZ",
+      "coverageName": "LA CRUZ",
+      "ineCountyCode": 301,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LALI",
+      "countyName": "LA LIGUA",
+      "coverageName": "LA LIGUA",
+      "ineCountyCode": 275,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LIMA",
+      "countyName": "LIMACHE",
+      "coverageName": "LIMACHE",
+      "ineCountyCode": 305,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LLAY",
+      "countyName": "LLAY LLAY",
+      "coverageName": "LLAY LLAY",
+      "ineCountyCode": 294,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "LAND",
+      "countyName": "LOS ANDES",
+      "coverageName": "LOS ANDES",
+      "ineCountyCode": 285,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "NOGA",
+      "countyName": "NOGALES",
+      "coverageName": "NOGALES",
+      "ineCountyCode": 303,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "OLMU",
+      "countyName": "OLMUE",
+      "coverageName": "OLMUE",
+      "ineCountyCode": 306,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "PAPU",
+      "countyName": "PAPUDO",
+      "coverageName": "PAPUDO",
+      "ineCountyCode": 279,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "PUCH",
+      "countyName": "PUCHUNCAVI",
+      "coverageName": "PUCHUNCAVI",
+      "ineCountyCode": 313,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "PUTA",
+      "countyName": "PUTAENDO",
+      "coverageName": "PUTAENDO",
+      "ineCountyCode": 291,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "QLTA",
+      "countyName": "QUILLOTA",
+      "coverageName": "QUILLOTA",
+      "ineCountyCode": 300,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "QUIL",
+      "countyName": "QUILPUE",
+      "coverageName": "QUILPUE",
+      "ineCountyCode": 314,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "QUIN",
+      "countyName": "QUINTERO",
+      "coverageName": "QUINTERO",
+      "ineCountyCode": 312,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "SANT",
+      "countyName": "SAN ANTONIO",
+      "coverageName": "SAN ANTONIO",
+      "ineCountyCode": 320,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "SEST",
+      "countyName": "SAN ESTEBAN",
+      "coverageName": "SAN ESTEBAN",
+      "ineCountyCode": 286,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "SFEL",
+      "countyName": "SAN FELIPE",
+      "coverageName": "SAN FELIPE",
+      "ineCountyCode": 290,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "SMAR",
+      "countyName": "SANTA MARIA",
+      "coverageName": "SANTA MARIA",
+      "ineCountyCode": 292,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "SDGO",
+      "countyName": "SANTO DOMINGO",
+      "coverageName": "SANTO DOMINGO",
+      "ineCountyCode": 325,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "VALP",
+      "countyName": "VALPARAISO",
+      "coverageName": "VALPARAISO",
+      "ineCountyCode": 310,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "VALE",
+      "countyName": "VILLA ALEMANA",
+      "coverageName": "VILLA ALEMANA",
+      "ineCountyCode": 315,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "VINA",
+      "countyName": "VINA DEL MAR",
+      "coverageName": "VINA DEL MAR",
+      "ineCountyCode": 311,
+      "queryMode": 1,
+      "regionCode": "R5"
+    },
+    {
+      "countyCode": "ZAPA",
+      "countyName": "ZAPALLAR",
+      "coverageName": "ZAPALLAR",
+      "ineCountyCode": 278,
+      "queryMode": 1,
+      "regionCode": "R5"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

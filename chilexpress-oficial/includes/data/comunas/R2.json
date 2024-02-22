@@ -1,0 +1,71 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ANTO",
+      "countyName": "ANTOFAGASTA",
+      "coverageName": "ANTOFAGASTA",
+      "ineCountyCode": 230,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "CALA",
+      "countyName": "CALAMA",
+      "coverageName": "CALAMA",
+      "ineCountyCode": 225,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "MARI",
+      "countyName": "MARIA ELENA",
+      "coverageName": "MARIA ELENA",
+      "ineCountyCode": 221,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "MEJI",
+      "countyName": "MEJILLONES",
+      "coverageName": "MEJILLONES",
+      "ineCountyCode": 231,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "SPAT",
+      "countyName": "SAN PEDRO DE ATACAMA",
+      "coverageName": "SAN PEDRO DE ATACAMA",
+      "ineCountyCode": 227,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "SGOR",
+      "countyName": "SIERRA GORDA",
+      "coverageName": "SIERRA GORDA",
+      "ineCountyCode": 232,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "TALT",
+      "countyName": "TALTAL",
+      "coverageName": "TALTAL",
+      "ineCountyCode": 233,
+      "queryMode": 1,
+      "regionCode": "R2"
+    },
+    {
+      "countyCode": "TOCO",
+      "countyName": "TOCOPILLA",
+      "coverageName": "TOCOPILLA",
+      "ineCountyCode": 220,
+      "queryMode": 1,
+      "regionCode": "R2"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

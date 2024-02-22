@@ -1,0 +1,111 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ANDA",
+      "countyName": "ANDACOLLO",
+      "coverageName": "ANDACOLLO",
+      "ineCountyCode": 253,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "CANL",
+      "countyName": "CANELA",
+      "coverageName": "CANELA",
+      "ineCountyCode": 273,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "COMB",
+      "countyName": "COMBARBALA",
+      "coverageName": "COMBARBALA",
+      "ineCountyCode": 263,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "COQU",
+      "countyName": "COQUIMBO",
+      "coverageName": "COQUIMBO",
+      "ineCountyCode": 252,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "ILLA",
+      "countyName": "ILLAPEL",
+      "coverageName": "ILLAPEL",
+      "ineCountyCode": 270,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "LASE",
+      "countyName": "LA SERENA",
+      "coverageName": "LA SERENA",
+      "ineCountyCode": 250,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "LVIL",
+      "countyName": "LOS VILOS",
+      "coverageName": "LOS VILOS",
+      "ineCountyCode": 272,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "MOPA",
+      "countyName": "MONTE PATRIA",
+      "coverageName": "MONTE PATRIA",
+      "ineCountyCode": 262,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "OVAL",
+      "countyName": "OVALLE",
+      "coverageName": "OVALLE",
+      "ineCountyCode": 260,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "PAIG",
+      "countyName": "PAIGUANO",
+      "coverageName": "PAIGUANO",
+      "ineCountyCode": 255,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "PUNI",
+      "countyName": "PUNITAQUI",
+      "coverageName": "PUNITAQUI",
+      "ineCountyCode": 264,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "SALA",
+      "countyName": "SALAMANCA",
+      "coverageName": "SALAMANCA",
+      "ineCountyCode": 271,
+      "queryMode": 1,
+      "regionCode": "R4"
+    },
+    {
+      "countyCode": "VICU",
+      "countyName": "VICUNA",
+      "coverageName": "VICUNA",
+      "ineCountyCode": 254,
+      "queryMode": 1,
+      "regionCode": "R4"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

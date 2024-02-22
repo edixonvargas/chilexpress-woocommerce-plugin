@@ -1,0 +1,247 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ALBB",
+      "countyName": "ALTO BIOBIO",
+      "coverageName": "ALTO BIOBIO",
+      "ineCountyCode": 997,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "ANTU",
+      "countyName": "ANTUCO",
+      "coverageName": "ANTUCO",
+      "ineCountyCode": 443,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "ARAU",
+      "countyName": "ARAUCO",
+      "coverageName": "ARAUCO",
+      "ineCountyCode": 466,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CABR",
+      "countyName": "CABRERO",
+      "coverageName": "CABRERO",
+      "ineCountyCode": 441,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CANE",
+      "countyName": "CANETE",
+      "coverageName": "CANETE",
+      "ineCountyCode": 469,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CHIG",
+      "countyName": "CHIGUAYANTE",
+      "coverageName": "CHIGUAYANTE",
+      "ineCountyCode": 474,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CONC",
+      "countyName": "CONCEPCION",
+      "coverageName": "CONCEPCION",
+      "ineCountyCode": 455,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CONT",
+      "countyName": "CONTULMO",
+      "coverageName": "CONTULMO",
+      "ineCountyCode": 470,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CORO",
+      "countyName": "CORONEL",
+      "coverageName": "CORONEL",
+      "ineCountyCode": 463,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "CURA",
+      "countyName": "CURANILAHUE",
+      "coverageName": "CURANILAHUE",
+      "ineCountyCode": 467,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "FLOR",
+      "countyName": "FLORIDA",
+      "coverageName": "FLORIDA",
+      "ineCountyCode": 459,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "HPEN",
+      "countyName": "HUALPEN",
+      "coverageName": "HUALPEN",
+      "ineCountyCode": 996,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "HAQI",
+      "countyName": "HUALQUI",
+      "coverageName": "HUALQUI",
+      "ineCountyCode": 460,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "LAJA",
+      "countyName": "LAJA",
+      "coverageName": "LAJA",
+      "ineCountyCode": 450,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "LEBU",
+      "countyName": "LEBU",
+      "coverageName": "LEBU",
+      "ineCountyCode": 465,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "ALAM",
+      "countyName": "LOS ALAMOS",
+      "coverageName": "LOS ALAMOS",
+      "ineCountyCode": 468,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "LANG",
+      "countyName": "LOS ANGELES",
+      "coverageName": "LOS ANGELES",
+      "ineCountyCode": 440,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "LOTA",
+      "countyName": "LOTA",
+      "coverageName": "LOTA",
+      "ineCountyCode": 462,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "MULC",
+      "countyName": "MULCHEN",
+      "coverageName": "MULCHEN",
+      "ineCountyCode": 447,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "NACI",
+      "countyName": "NACIMIENTO",
+      "coverageName": "NACIMIENTO",
+      "ineCountyCode": 449,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "NEGR",
+      "countyName": "NEGRETE",
+      "coverageName": "NEGRETE",
+      "ineCountyCode": 448,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "PENC",
+      "countyName": "PENCO",
+      "coverageName": "PENCO",
+      "ineCountyCode": 457,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "QLLC",
+      "countyName": "QUILLECO",
+      "coverageName": "QUILLECO",
+      "ineCountyCode": 444,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "SPED",
+      "countyName": "SAN PEDRO DE LA PAZ",
+      "coverageName": "SAN PEDRO DE LA PAZ",
+      "ineCountyCode": 464,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "SANR",
+      "countyName": "SAN ROSENDO",
+      "coverageName": "SAN ROSENDO",
+      "ineCountyCode": 451,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "SBAR",
+      "countyName": "SANTA BARBARA",
+      "coverageName": "SANTA BARBARA",
+      "ineCountyCode": 445,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "THNO",
+      "countyName": "TALCAHUANO",
+      "coverageName": "TALCAHUANO",
+      "ineCountyCode": 456,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "TOME",
+      "countyName": "TOME",
+      "coverageName": "TOME",
+      "ineCountyCode": 458,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "TUCA",
+      "countyName": "TUCAPEL",
+      "coverageName": "TUCAPEL",
+      "ineCountyCode": 442,
+      "queryMode": 1,
+      "regionCode": "R8"
+    },
+    {
+      "countyCode": "YUMB",
+      "countyName": "YUMBEL",
+      "coverageName": "YUMBEL",
+      "ineCountyCode": 452,
+      "queryMode": 1,
+      "regionCode": "R8"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

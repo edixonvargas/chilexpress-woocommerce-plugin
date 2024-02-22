@@ -1,0 +1,215 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "ANGO",
+      "countyName": "ANGOL",
+      "coverageName": "ANGOL",
+      "ineCountyCode": 475,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "CARA",
+      "countyName": "CARAHUE",
+      "coverageName": "CARAHUE",
+      "ineCountyCode": 506,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "CHLC",
+      "countyName": "CHOLCHOL",
+      "coverageName": "CHOL CHOL",
+      "ineCountyCode": 995,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "COLL",
+      "countyName": "COLLIPULLI",
+      "coverageName": "COLLIPULLI",
+      "ineCountyCode": 477,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "CUNC",
+      "countyName": "CUNCO",
+      "coverageName": "CUNCO",
+      "ineCountyCode": 494,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "CURC",
+      "countyName": "CURACAUTIN",
+      "coverageName": "CURACAUTIN",
+      "ineCountyCode": 479,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "FRER",
+      "countyName": "FREIRE",
+      "coverageName": "FREIRE",
+      "ineCountyCode": 499,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "GALV",
+      "countyName": "GALVARINO",
+      "coverageName": "GALVARINO",
+      "ineCountyCode": 508,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "GORB",
+      "countyName": "GORBEA",
+      "coverageName": "GORBEA",
+      "ineCountyCode": 501,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "LAUT",
+      "countyName": "LAUTARO",
+      "coverageName": "LAUTARO",
+      "ineCountyCode": 491,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "LONC",
+      "countyName": "LONCOCHE",
+      "coverageName": "LONCOCHE",
+      "ineCountyCode": 502,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "LNQY",
+      "countyName": "LONQUIMAY",
+      "coverageName": "LONQUIMAY",
+      "ineCountyCode": 478,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "LUMA",
+      "countyName": "LUMACO",
+      "coverageName": "LUMACO",
+      "ineCountyCode": 483,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "NVAI",
+      "countyName": "NUEVA IMPERIAL",
+      "coverageName": "NUEVA IMPERIAL",
+      "ineCountyCode": 507,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "PLCA",
+      "countyName": "PADRE LAS CASAS",
+      "coverageName": "PADRE LAS CASAS",
+      "ineCountyCode": 509,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "PITR",
+      "countyName": "PITRUFQUEN",
+      "coverageName": "PITRUFQUEN",
+      "ineCountyCode": 500,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "PUCO",
+      "countyName": "PUCON",
+      "coverageName": "PUCON",
+      "ineCountyCode": 497,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "PURE",
+      "countyName": "PUREN",
+      "coverageName": "PUREN",
+      "ineCountyCode": 484,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "RNCO",
+      "countyName": "RENAICO",
+      "coverageName": "RENAICO",
+      "ineCountyCode": 476,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "SVDR",
+      "countyName": "SAAVEDRA",
+      "coverageName": "SAAVEDRA",
+      "ineCountyCode": 505,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "TEMU",
+      "countyName": "TEMUCO",
+      "coverageName": "TEMUCO",
+      "ineCountyCode": 490,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "TSCH",
+      "countyName": "TEODORO SCHMIDT",
+      "coverageName": "TEODORO SCHMIDT",
+      "ineCountyCode": 504,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "TRAI",
+      "countyName": "TRAIGUEN",
+      "coverageName": "TRAIGUEN",
+      "ineCountyCode": 482,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "VICT",
+      "countyName": "VICTORIA",
+      "coverageName": "VICTORIA",
+      "ineCountyCode": 481,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "VILC",
+      "countyName": "VILCUN",
+      "coverageName": "VILCUN",
+      "ineCountyCode": 493,
+      "queryMode": 1,
+      "regionCode": "R9"
+    },
+    {
+      "countyCode": "VILL",
+      "countyName": "VILLARRICA",
+      "coverageName": "VILLARRICA",
+      "ineCountyCode": 498,
+      "queryMode": 1,
+      "regionCode": "R9"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

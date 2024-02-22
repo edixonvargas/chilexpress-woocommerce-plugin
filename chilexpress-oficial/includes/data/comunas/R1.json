@@ -1,0 +1,31 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "AHOS",
+      "countyName": "ALTO HOSPICIO",
+      "coverageName": "ALTO HOSPICIO",
+      "ineCountyCode": 998,
+      "queryMode": 1,
+      "regionCode": "R1"
+    },
+    {
+      "countyCode": "IQUI",
+      "countyName": "IQUIQUE",
+      "coverageName": "IQUIQUE",
+      "ineCountyCode": 210,
+      "queryMode": 1,
+      "regionCode": "R1"
+    },
+    {
+      "countyCode": "POZO",
+      "countyName": "POZO ALMONTE",
+      "coverageName": "POZO ALMONTE",
+      "ineCountyCode": 215,
+      "queryMode": 1,
+      "regionCode": "R1"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

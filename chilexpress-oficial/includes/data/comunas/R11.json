@@ -1,0 +1,55 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "CHCH",
+      "countyName": "CHILE CHICO",
+      "coverageName": "CHILE CHICO",
+      "ineCountyCode": 575,
+      "queryMode": 1,
+      "regionCode": "R11"
+    },
+    {
+      "countyCode": "COCH",
+      "countyName": "COCHRANE",
+      "coverageName": "COCHRANE",
+      "ineCountyCode": 580,
+      "queryMode": 1,
+      "regionCode": "R11"
+    },
+    {
+      "countyCode": "COYH",
+      "countyName": "COYHAIQUE",
+      "coverageName": "COYHAIQUE",
+      "ineCountyCode": 565,
+      "queryMode": 1,
+      "regionCode": "R11"
+    },
+    {
+      "countyCode": "PAYS",
+      "countyName": "AISEN",
+      "coverageName": "PUERTO AYSEN",
+      "ineCountyCode": 570,
+      "queryMode": 1,
+      "regionCode": "R11"
+    },
+    {
+      "countyCode": "PCIS",
+      "countyName": "CISNES",
+      "coverageName": "PUERTO CISNES",
+      "ineCountyCode": 571,
+      "queryMode": 1,
+      "regionCode": "R11"
+    },
+    {
+      "countyCode": "RIBA",
+      "countyName": "RIO IBANEZ",
+      "coverageName": "RIO IBANEZ",
+      "ineCountyCode": 576,
+      "queryMode": 1,
+      "regionCode": "R11"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

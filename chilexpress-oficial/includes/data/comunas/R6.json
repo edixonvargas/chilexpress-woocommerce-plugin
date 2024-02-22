@@ -1,0 +1,255 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "CHEP",
+      "countyName": "CHEPICA",
+      "coverageName": "CHEPICA",
+      "ineCountyCode": 359,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "CHIM",
+      "countyName": "CHIMBARONGO",
+      "coverageName": "CHIMBARONGO",
+      "ineCountyCode": 356,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "CODE",
+      "countyName": "CODEGUA",
+      "coverageName": "CODEGUA",
+      "ineCountyCode": 338,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "COIN",
+      "countyName": "COINCO",
+      "coverageName": "COINCO",
+      "ineCountyCode": 349,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "COLT",
+      "countyName": "COLTAUCO",
+      "coverageName": "COLTAUCO",
+      "ineCountyCode": 348,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "DONI",
+      "countyName": "DONIHUE",
+      "coverageName": "DONIHUE",
+      "ineCountyCode": 350,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "GRAN",
+      "countyName": "GRANEROS",
+      "coverageName": "GRANEROS",
+      "ineCountyCode": 336,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "LCAB",
+      "countyName": "LAS CABRAS",
+      "coverageName": "LAS CABRAS",
+      "ineCountyCode": 351,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "LCHE",
+      "countyName": "LITUECHE",
+      "coverageName": "LITUECHE",
+      "ineCountyCode": 372,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "LOLO",
+      "countyName": "LOLOL",
+      "coverageName": "LOLOL",
+      "ineCountyCode": 361,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "MACH",
+      "countyName": "MACHALI",
+      "coverageName": "MACHALI",
+      "ineCountyCode": 339,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "MALO",
+      "countyName": "MALLOA",
+      "coverageName": "MALLOA",
+      "ineCountyCode": 343,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "MARC",
+      "countyName": "MARCHIHUE",
+      "coverageName": "MARCHIGUE",
+      "ineCountyCode": 374,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "NANC",
+      "countyName": "NANCAGUA",
+      "coverageName": "NANCAGUA",
+      "ineCountyCode": 358,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "NAVI",
+      "countyName": "NAVIDAD",
+      "coverageName": "NAVIDAD",
+      "ineCountyCode": 371,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "OLIV",
+      "countyName": "OLIVAR",
+      "coverageName": "OLIVAR",
+      "ineCountyCode": 340,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PALM",
+      "countyName": "PALMILLA",
+      "coverageName": "PALMILLA",
+      "ineCountyCode": 363,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PARE",
+      "countyName": "PAREDONES",
+      "coverageName": "PAREDONES",
+      "ineCountyCode": 375,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PERA",
+      "countyName": "PERALILLO",
+      "coverageName": "PERALILLO",
+      "ineCountyCode": 364,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PEUM",
+      "countyName": "PEUMO",
+      "coverageName": "PEUMO",
+      "ineCountyCode": 347,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PICD",
+      "countyName": "PICHIDEGUA",
+      "coverageName": "PICHIDEGUA",
+      "ineCountyCode": 346,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PICH",
+      "countyName": "PICHILEMU",
+      "coverageName": "PICHILEMU",
+      "ineCountyCode": 370,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "PLAC",
+      "countyName": "PLACILLA",
+      "coverageName": "PLACILLA SEXTA REGION",
+      "ineCountyCode": 357,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "QTIL",
+      "countyName": "QUINTA DE TILCOCO",
+      "coverageName": "QUINTA DE TILCOCO",
+      "ineCountyCode": 344,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "RANC",
+      "countyName": "RANCAGUA",
+      "coverageName": "RANCAGUA",
+      "ineCountyCode": 335,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "RENG",
+      "countyName": "RENGO",
+      "coverageName": "RENGO",
+      "ineCountyCode": 342,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "REQU",
+      "countyName": "REQUINOA",
+      "coverageName": "REQUINOA",
+      "ineCountyCode": 341,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "SFER",
+      "countyName": "SAN FERNANDO",
+      "coverageName": "SAN FERNANDO",
+      "ineCountyCode": 355,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "SFRA",
+      "countyName": "MOSTAZAL",
+      "coverageName": "SAN FRANCISCO DE MOSTAZAL",
+      "ineCountyCode": 337,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "SVIC",
+      "countyName": "SAN VICENTE",
+      "coverageName": "SAN VICENTE DE TAGUA TAGUA",
+      "ineCountyCode": 345,
+      "queryMode": 1,
+      "regionCode": "R6"
+    },
+    {
+      "countyCode": "SCRU",
+      "countyName": "SANTA CRUZ",
+      "coverageName": "SANTA CRUZ",
+      "ineCountyCode": 360,
+      "queryMode": 1,
+      "regionCode": "R6"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

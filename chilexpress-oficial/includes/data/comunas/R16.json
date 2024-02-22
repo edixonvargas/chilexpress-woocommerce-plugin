@@ -1,0 +1,135 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "BULN",
+      "countyName": "BULNES",
+      "coverageName": "BULNES",
+      "ineCountyCode": 425,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "CHIL",
+      "countyName": "CHILLAN",
+      "coverageName": "CHILLAN",
+      "ineCountyCode": 415,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "CHVJ",
+      "countyName": "CHILLAN VIEJO",
+      "coverageName": "CHILLAN VIEJO",
+      "ineCountyCode": 435,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "COEL",
+      "countyName": "COELEMU",
+      "coverageName": "COELEMU",
+      "ineCountyCode": 429,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "COIC",
+      "countyName": "COIHUECO",
+      "coverageName": "COIHUECO",
+      "ineCountyCode": 419,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "ECAR",
+      "countyName": "EL CARMEN",
+      "coverageName": "EL CARMEN",
+      "ineCountyCode": 422,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "NINH",
+      "countyName": "NINHUE",
+      "coverageName": "NINHUE",
+      "ineCountyCode": 433,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "NIQU",
+      "countyName": "NIQUEN",
+      "coverageName": "NIQUEN",
+      "ineCountyCode": 417,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "PEMU",
+      "countyName": "PEMUCO",
+      "coverageName": "PEMUCO",
+      "ineCountyCode": 424,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "PINT",
+      "countyName": "PINTO",
+      "coverageName": "PINTO",
+      "ineCountyCode": 420,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "QULL",
+      "countyName": "QUILLON",
+      "coverageName": "QUILLON",
+      "ineCountyCode": 426,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "QUIR",
+      "countyName": "QUIRIHUE",
+      "coverageName": "QUIRIHUE",
+      "ineCountyCode": 432,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "SCAR",
+      "countyName": "SAN CARLOS",
+      "coverageName": "SAN CARLOS",
+      "ineCountyCode": 416,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "SIGN",
+      "countyName": "SAN IGNACIO",
+      "coverageName": "SAN IGNACIO",
+      "ineCountyCode": 421,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "SNIC",
+      "countyName": "SAN NICOLAS",
+      "coverageName": "SAN NICOLAS",
+      "ineCountyCode": 434,
+      "queryMode": 1,
+      "regionCode": "R16"
+    },
+    {
+      "countyCode": "YUNG",
+      "countyName": "YUNGAY",
+      "coverageName": "YUNGAY",
+      "ineCountyCode": 423,
+      "queryMode": 1,
+      "regionCode": "R16"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}

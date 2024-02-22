@@ -1,0 +1,31 @@
+{
+  "coverageAreas": [
+    {
+      "countyCode": "PNAT",
+      "countyName": "NATALES",
+      "coverageName": "NATALES",
+      "ineCountyCode": 585,
+      "queryMode": 1,
+      "regionCode": "R12"
+    },
+    {
+      "countyCode": "PORV",
+      "countyName": "PORVENIR",
+      "coverageName": "PORVENIR",
+      "ineCountyCode": 595,
+      "queryMode": 1,
+      "regionCode": "R12"
+    },
+    {
+      "countyCode": "PUNT",
+      "countyName": "PUNTA ARENAS",
+      "coverageName": "PUNTA ARENAS",
+      "ineCountyCode": 590,
+      "queryMode": 1,
+      "regionCode": "R12"
+    }
+  ],
+  "statusCode": 0,
+  "statusDescription": "Extraccion exitosa",
+  "errors": null
+}
